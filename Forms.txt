@@ -1,0 +1,33 @@
+Sign Up----------------------
+
+Username
+Email
+Phone Num
+Password
+
+
+Profile--------------------
+
+First Name
+Last Name
+
+Sex
+Age
+
+Photo
+
+Company
+
+Have vehicle?
+
+Vehicle Details
+-Car/Bike
+-Model
+-Vehicle Num
+-Lic Non
+-Veh Image
+
+Address
+Resident Area
+
+Preferred Route

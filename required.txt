@@ -1,0 +1,10 @@
+Sign Up
+
+- Name 
+	-FirstName
+	-LastName
+
+- UserName
+- Email
+- Password
+
